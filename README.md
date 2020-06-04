@@ -6,4 +6,4 @@ Studied Big data processing using Azure HDinsight
 - Pig
 -- going beyond hive with latin pig and python
 - Oozie
--- building a workflow
+-- building a workflow with creating hive Table
